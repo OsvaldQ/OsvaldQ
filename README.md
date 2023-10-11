@@ -2,7 +2,7 @@
 ```
 👋 Olá, me chamo Osvaldo Queiroz 
 🦦 Tenho 19 anos
-📚 Sou estudante de Ciência da Computação 
+📚 Sou estudante de Ciência da Computação - 4° Período 
 ```
 
 <!--
