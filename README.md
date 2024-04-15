@@ -2,7 +2,7 @@
 ```
 👋 Olá, me chamo Osvaldo Queiroz 
 🦦 Tenho 20 anos
-📚 Sou estudante de Ciência da Computação - 4° Período 
+📚 Sou estudante de Ciência da Computação - 5° Período 
 ```
 <div>
 <a href="https://github.com/OsvaldQ">
