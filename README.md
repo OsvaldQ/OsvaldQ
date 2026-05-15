@@ -1,8 +1,8 @@
 ###
 ```
 👋 Olá, me chamo Osvaldo Queiroz 
-🦦 Tenho 21 anos
-📚 Graduando em Ciência da Computação
+🦦 Tenho 22 anos
+📚 Bacharelado em Ciência da Computação
 ```
 <div>
 <a href="https://github.com/OsvaldQ">
