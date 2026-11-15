@@ -11,7 +11,7 @@ Sou Osvaldo Queiroz, Bacharel em Ciência da Computação, interessado em desenv
 🚀 Main Skills
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=javascript,html,css,python,mysql,dotnet,github,git,java,cpp,azure,bootstrap" />
+<img src="https://skillicons.dev/icons?i=javascript,html,css,python,mysql,dotnet,github,git,java,cpp,azure,bootstrap,wordpress" />
 </p>
 
 🤝 Contato
