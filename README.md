@@ -1,7 +1,7 @@
 👋 Olá, eu sou Osvaldo Queiroz!
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=3498DB&center=true&vCenter=true&width=600&lines=Bacharel+em+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Desenvolvedor+de+Software;Apaixonado+por+Tecnologia" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=3498DB&center=true&vCenter=true&width=600&lines=Bacharel+em+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Apaixonado+por+Tecnologia" alt="Typing SVG" />
 </p>
 
 💻 Sobre mim
